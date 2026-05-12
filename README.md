@@ -4,7 +4,7 @@ Various independent scripts used to analyze GIZMO snapshots from cosmological hy
 
 ## Overview
 
-This repository contains Python tools to extract and measure galaxy propertiesas described below for each script included.  These were created for independent personal use and are indented for review only - they require significant edits before they would be appropriate for general application to GIZMO snapshots. 
+This repository contains Python tools to extract and measure galaxy properties as described below for each script included.  These were created for independent personal use and are intended for review only - they require significant edits before they would be appropriate for general application to GIZMO snapshots. 
 
 ## Usage
 
