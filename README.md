@@ -74,6 +74,7 @@ This repository contains Python tools to extract and measure galaxy properties a
 ###track_galaxy_properties
 
 Newer version with better comments throughout - please see the script for a detatiled description
+(The structure and functions for this script were initialized by Claude.ai and debugged/edited/updated by me - this works, but is prone to losing the HOP galaxy at high redshift - a better tracking algorithm is in development)
 
 Tracks a galaxy identified by HOP group ID backwards in time using
 particle IDs, computing a comprehensive set of structural, kinematic,
